@@ -1,0 +1,9 @@
+torch
+transformers>=4.30.0
+seqeval
+numpy
+tqdm
+matplotlib
+scikit-learn
+sentencepiece
+protobuf<5
